@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+<frameset cols="30%,*">
+<frame src="demo1.html">
+<frame src="demo2.html">
+<noframes>
+<body>
+<strong>注意，你的浏览器不支持框架显示！</strong>
+<a href="demo1.html">链接到页面一</a>
+<a href="demo2.html">链接到页面二</a>
+</body>
+</noframes>
+</frameset>
+</html>

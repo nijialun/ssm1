@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>框架的嵌套</title>
+ </head>
+ <frameset cols="3o%,*">/*水平分割*/
+ <frame src="demo.html">
+   <framest rows="60%,*">/*垂直分割*/
+   <frame src="demo2.html">
+   <frame src="demo1.html">
+   </framest>
+ </frameset>
+</html>
